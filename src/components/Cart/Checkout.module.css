@@ -1,7 +1,8 @@
 .form {
   margin: 1rem 0;
-  height: 15rem;
+  height: 17rem;
   overflow: auto;
+  font-size: 0.9rem;
 }
 
 .control {
