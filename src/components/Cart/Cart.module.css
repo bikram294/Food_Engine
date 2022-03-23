@@ -2,9 +2,9 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  max-height: 15rem;
+  max-height: 12rem;
   overflow: auto;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 .total {
